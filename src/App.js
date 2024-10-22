@@ -12,7 +12,7 @@ export default function Board() {
         <Square value="6"/>
       </div>
       <div className="board-row">
-        <Square value="1"/>
+        <Square value="14"/>
         <Square value="1"/>
         <Square value="1"/>
       </div>
